@@ -1,0 +1,27 @@
+.buttonContainer {
+  width: 201px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #AACAF0;
+  color: #2e2e2e;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  border: none; 
+  outline: none;
+  display: flex;
+  font-family: 'Inter', sans-serif;
+  user-select : none;
+}
+
+.buttonIcon {
+  margin-top: 15px;
+  margin-left: 26px;
+}
+
+p {
+  margin-top : 8px;
+  margin-left: 9px;
+}

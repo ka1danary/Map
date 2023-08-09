@@ -1,0 +1,32 @@
+.MySearch {
+  width: 402px;
+  height: 41px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #d9d9d9;
+  display: flex;
+  color: #bebebe;
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  user-select: none;
+  padding: 0;
+  display: flex;
+}
+
+.iconSvg {
+  margin-left: 9px;
+  margin-top: 7px;
+}
+.icon {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 8px;
+}
+.inputText {
+  margin-top: 0px;
+  margin-left: 15px;
+  width: 330px;
+}

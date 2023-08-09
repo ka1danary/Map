@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.github {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  fill: var(--main-color-hover, #AACAF0);
+  margin: 0;
+  padding: 0;
+}
+
+.lightTheme {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.settings {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  fill: var(--main-color-hover, #AACAF0);
+}
+
+.splitScreen {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+}
+
+.Menu {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  fill: var(--main-color, #AACAF0);
+  margin: 0;
+  padding: 0;
+}
+
+
+.layers {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  fill: var(--main-color-hover, #AACAF0);
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+.layersIcon{
+    height: 36px;
+    width: 36px;
+}
+
+.search {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  fill: #3f6d9a;
+}
